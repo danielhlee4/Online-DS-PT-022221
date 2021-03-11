@@ -7,7 +7,7 @@ A repository for all study group or optional review resources for the Flatiron S
 
 ## Written Instructions to Connect to This Repository:
 
-PLEASE NOTE: A recording of me walking through these steps will go live on the Cohort YouTube Playlist around March 4 - I recommend waiting for that recording, and walking through these instructions after watching.
+Watch a video walkthrough of these instructions [here](https://youtu.be/Vyb5_hao9QA).
 
 1. FORK this repository, creating a copy on your own GitHub account
 
@@ -37,10 +37,5 @@ git fetch upstream
 
 6. Merge new changes onto your local repo
 ```
-git merge upstream/master -m "meaningful message about what you're updating"
-```
-
-7. Now you can push the new notebooks to your fork
-```
-git push
+git merge upstream/main -m "meaningful message about what you're updating"
 ```
